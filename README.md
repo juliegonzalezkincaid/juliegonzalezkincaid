@@ -1,3 +1,5 @@
+![welcome](ocean.jpg)
+
 <h1 align="center"> Hello! I'm Julie Gonzalez-Kincaid. </h1>
 
 <!--------------------- Technologies That I Have Used ---------------------->
