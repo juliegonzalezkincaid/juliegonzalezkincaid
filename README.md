@@ -1,6 +1,6 @@
 <h1 align="center" style="color: white; font-family: 'Lobster', cursive;">Hi! I'm Julie Gonzalez-Kincaid</h1>
 <p align="center">
-  <img src="ocean.jpeg" alt="Hello! I'm Julie">
+  <img src="ocean-banner.jpeg" alt="Hello! I'm Julie">
 </p>
 
 
