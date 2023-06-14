@@ -1,7 +1,7 @@
-<h1 align="center"> Hi! I'm Julie Gonzalez-Kincaid</h1>
-
-![Hello! I'm Julie](ocean.jpeg)
-   
+<p align="center">
+  <img src="ocean.jpeg" alt="Hello! I'm Julie">
+</p>
+<h1 align="center" style="color: white; font-family: 'Lobster', cursive;">Hi! I'm Julie Gonzalez-Kincaid</h1>
 
 <!--------------------- Technologies That I Have Used ---------------------->
 <h3 align="center">🤖 Technologies</h3>
