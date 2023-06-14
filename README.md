@@ -42,12 +42,12 @@
     <img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=apple&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" height="22px"/>
 </p>
-## Operating Systems
+<!-- ## Operating Systems -->
 <h2 align="center">STATS</h2>
 
 
 <p id="topLanguages" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliegonzalez-kincaid&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliegonzalezkincaid&theme=github_dark">
 </p>
 
 <p id="profileGraph" align="center">
