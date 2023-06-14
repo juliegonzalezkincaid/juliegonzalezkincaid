@@ -2,7 +2,9 @@
 <p align="center">
   <img src="ocean.jpeg" alt="Hello! I'm Julie" style="width: 100%; object-fit: cover; height: 400px;">
 </p>
-
+<!--------------------- Links ---------------------->
+<h2 align="center"> Full Stack Software Engineer</h2>
+</br>
 <!--------------------- Technologies That I Have Used ---------------------->
 <h3 align="center">🤖 Technologies</h3>
 
