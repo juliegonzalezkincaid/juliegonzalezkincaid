@@ -1,4 +1,4 @@
-![Image Description](ocean.jpg)
+![Image Description](ocean.jpeg)
   Hello! I'm Julie Gonzalez-Kincaid. </h1>
 
 <!--------------------- Technologies That I Have Used ---------------------->
