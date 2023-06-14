@@ -2,7 +2,6 @@
   <img src="ocean.jpeg" alt="Hello! I'm Julie">
 </div>
 
-```html
 <div style="text-align: center; color: white; font-family: 'Lobster', cursive;">
   <h1>Hi! I'm Julie Gonzalez-Kincaid</h1>
 </div>
