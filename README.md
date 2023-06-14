@@ -1,4 +1,4 @@
-<h1> Hi! I'm Julie Gonzalez-Kincaid</h1>
+<h1 align="center"> Hi! I'm Julie Gonzalez-Kincaid</h1>
 
 ![Hello! I'm Julie](ocean.jpeg)
    
