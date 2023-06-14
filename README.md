@@ -56,7 +56,7 @@
 
 
 <p id="topLanguages" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliegonzalezkincaid&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliegonzalez-kincaid&theme=github_dark">
 </p>
 
 <p id="profileGraph" align="center">
