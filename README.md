@@ -3,10 +3,10 @@
   <img src="ocean.jpeg" alt="Hello! I'm Julie" style="width: 100%; object-fit: cover; height: 400px;">
 </p>
 <h2 align="center"> Full Stack Software Engineer</h2>
-<!---------------------Contact Links ---------------------->
+<!--------------------- Links ---------------------->
 
 </br>
-
+<h2 align="center"> Full Stack Software Engineer</h2>
 <div align="center">
     <!-- <a href="https://github.com/juliegonzalezkincaid" target="_blank" rel="noopener noreferrer">
       <img alt="GitHub Link" title="GitHub Link" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30px" width="100px"/>
