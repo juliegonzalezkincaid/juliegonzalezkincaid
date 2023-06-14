@@ -5,6 +5,8 @@
 <!--------------------- Links ---------------------->
 <h2 align="center"> Full Stack Software Engineer</h2>
 </br>
+github
+https://github.com/juliegonzalezkincaid
 <!--------------------- Technologies That I Have Used ---------------------->
 <h3 align="center">🤖 Technologies</h3>
 
