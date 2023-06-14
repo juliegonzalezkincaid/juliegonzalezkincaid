@@ -40,18 +40,12 @@
     <img src="https://img.shields.io/badge/Obsidian-483699?style=plastic&logo=Obsidian&logoColor=white" height="22px"/>
 <p>
 
-<!--------------------- Operating Systems ---------------------->
-<h4 align="center">Operating Systems</h4>
+## Operating Systems
+
 <p align="center">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=apple&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" height="22px"/>
 </p>
-<!-- GITHUB STREAK 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juliegonzalezkincaid&theme=dark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-!--> 
-
-
 <h2 align="center">STATS</h2>
 
 
