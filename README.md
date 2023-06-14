@@ -1,10 +1,7 @@
-<div align="center">
+<p align="center">
   <img src="ocean.jpeg" alt="Hello! I'm Julie">
-</div>
-
-<div style="text-align: center; color: white; font-family: 'Lobster', cursive;">
-  <h1>Hi! I'm Julie Gonzalez-Kincaid</h1>
-</div>
+</p>
+<h1 align="center" style="color: white; font-family: 'Lobster', cursive;">Hi! I'm Julie Gonzalez-Kincaid</h1>
 
 <!--------------------- Technologies That I Have Used ---------------------->
 <h3 align="center">🤖 Technologies</h3>
