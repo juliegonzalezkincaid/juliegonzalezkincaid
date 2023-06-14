@@ -1,8 +1,9 @@
-
-<p align="center">
+<div align="center">
   <img src="ocean.jpeg" alt="Hello! I'm Julie">
-</p>
-<div align="center" style="color: white; font-family: 'Lobster', cursive;">
+</div>
+
+```html
+<div style="text-align: center; color: white; font-family: 'Lobster', cursive;">
   <h1>Hi! I'm Julie Gonzalez-Kincaid</h1>
 </div>
 
