@@ -5,9 +5,8 @@
 <!--------------------- Links ---------------------->
 <h2 align="center"> Full Stack Software Engineer</h2>
 </br>
-github
-https://github.com/juliegonzalezkincaid
-<!--------------------- Technologies That I Have Used ---------------------->
+
+    </div><!--------------------- Technologies That I Have Used ---------------------->
 <h3 align="center">🤖 Technologies</h3>
 
 <!--------------------- Frontend ---------------------->
@@ -46,4 +45,20 @@ https://github.com/juliegonzalezkincaid
 <p align="center">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=apple&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" height="22px"/>
+</p>
+<!-- GITHUB STREAK 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=svtucci&theme=dark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+!--> 
+
+
+<h2 align="center">STATS</h2>
+
+
+<p id="topLanguages" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliegonzalezkincaid&theme=github_dark">
+</p>
+
+<p id="profileGraph" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliegonzalezkincaid&theme=github_dark" alt="GitHub Profile Summary Card">
 </p>
