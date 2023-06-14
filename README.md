@@ -1,4 +1,4 @@
-!(ocean.jpg)
+![Image Description](relative/path/to/ocean.jpg)
 
 <h1 align="center"> Hello! I'm Julie Gonzalez-Kincaid. </h1>
 
