@@ -17,7 +17,8 @@
       <img alt="LinkedIn Link" title="LinkedIn Link" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" width="100px"/>
     </a>
 </div>  
-<h3 align="center">🤖 Technologies</h3>
+
+<!-------------<h3 align="center">🤖 Technologies</h3>-------------->
 
 <!--------------------- Frontend ---------------------->
 <h4 align="center">Frontend</h4>
