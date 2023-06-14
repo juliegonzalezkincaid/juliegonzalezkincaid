@@ -6,7 +6,7 @@
 <h2 align="center"> Full Stack Software Engineer</h2>
 </br>
 
-    </div><!--------------------- Technologies That I Have Used ---------------------->
+  
 <h3 align="center">🤖 Technologies</h3>
 
 <!--------------------- Frontend ---------------------->
@@ -48,7 +48,7 @@
 </p>
 <!-- GITHUB STREAK 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=svtucci&theme=dark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juliegonzalezkincaid&theme=dark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 !--> 
 
 
