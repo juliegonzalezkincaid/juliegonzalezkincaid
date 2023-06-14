@@ -1,5 +1,5 @@
-![Image Description](ocean.jpeg)
-  Hello! I'm Julie Gonzalez-Kincaid. </h1>
+![Hello! I'm Julie](ocean.jpeg)
+   
 
 <!--------------------- Technologies That I Have Used ---------------------->
 <h3 align="center">🤖 Technologies</h3>
