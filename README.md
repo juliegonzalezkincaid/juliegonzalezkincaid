@@ -3,14 +3,12 @@
   <img src="ocean.jpeg" alt="Hello! I'm Julie" style="width: 100%; object-fit: cover; height: 400px;">
 </p>
 <h2 align="center"> Full Stack Software Engineer</h2>
-<!--------------------- Links ---------------------->
 
-</br>
-<h2 align="center"> Full Stack Software Engineer</h2>
+<h3 align="center"> Contact</h3>
 <div align="center">
-    <!-- <a href="https://github.com/juliegonzalezkincaid" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/juliegonzalezkincaid" target="_blank" rel="noopener noreferrer">
       <img alt="GitHub Link" title="GitHub Link" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30px" width="100px"/>
-    </a> -->
+    </a> 
     <a href="mailto:jgonzalezkincaid@gmail.com" target="_blank" rel="noopener noreferrer">
       <img alt="Gmail Link" title="Gmail Link" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px" width="100px"/>
     </a>
@@ -18,10 +16,12 @@
       <img alt="LinkedIn Link" title="LinkedIn Link" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" width="100px"/>
     </a>
 </div>  
-
-<!-------------🤖 Technologies</h3>-------------->
-
-<!--------------------- Frontend ---------------------->
+<br />
+<br />
+<br />
+<!--------------------- Technologies  ---------------------->
+<h2 align="center">🤖 Technologies 🤖</h2>
+<h3 align="center"Frontend </h3>
 <h4 align="center">Frontend</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" height="22px"/>
