@@ -2,11 +2,12 @@
 <p align="center">
   <img src="ocean.jpeg" alt="Hello! I'm Julie" style="width: 100%; object-fit: cover; height: 400px;">
 </p>
+<div>
 <h2 align="center"> Full Stack Software Engineer</h2>
 
 
 
-<div>
+
 
   <h2 align="center">Contact</h2>
 <p align="center">
@@ -20,6 +21,7 @@
       <img alt="LinkedIn Link" title="LinkedIn Link" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" width="100px"/>
     </a>
 </p>  
+ <!--------------------- Technologies  ---------------------->
  </br> </div>
 <br />
 <br />
