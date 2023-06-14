@@ -1,4 +1,4 @@
- <h1 align="center"> Hi! I'm Julie Gonzalez-Kincaid</h1>
+ <h1 align="center"> Welcome! I'm Julie Gonzalez-Kincaid</h1>
 <p align="center">
   <img src="ocean.jpeg" alt="Hello! I'm Julie" style="width: 100%; object-fit: cover; height: 400px;">
 </p>
