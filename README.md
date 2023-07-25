@@ -37,6 +37,7 @@
     <img src="https://img.shields.io/badge/React_Router-CA4225?style=plastic&logo=react-router&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=plastic&logo=material-ui&logoColor=white" height="22px"/>
+ <img src="https://img.shields.io/badge/Apache_ECharts-5.2.2-red?style=plastic&logo=apache-echarts&logoColor=white" height="22px"/>
 </p>
 
 <!--------------------- Backend ---------------------->
